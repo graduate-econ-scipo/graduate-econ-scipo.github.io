@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Sciences Po Grad Econ
 tagline:          'A group'
 description:      'Boldly going wehere no grad students at <a href="http://econ.sciences-po.fr" target="_blank">The Sciences Po Department of Economics</a> have gone before.'
-url:              https://graduate-econ-scipo.github.io
+url:              http://graduate-econ-scipo.github.io
 baseurl:          /
 
 author:
@@ -23,9 +23,9 @@ paginate:         5
 version:          0.0.1
 
 github:
-  repo:           https://github.com/graduate-econ-scipo/
+  repo:           https://github.com/tyler-abbot/GradStudOrgSite
 
-gems: [jekyll-paginate, jekyll-gist, jekyll-auth]
+gems: [jekyll-paginate, jekyll-gist]
 
 # For heroku issue to build site
 exclude: [vendor]
