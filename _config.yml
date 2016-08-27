@@ -23,7 +23,7 @@ paginate:         5
 version:          0.0.1
 
 github:
-  repo:           https://github.com/tyler-abbot/GradStudOrgSite
+  repo:           https://github.com/graduate-econ-scipo/
 
 gems: [jekyll-paginate, jekyll-gist, jekyll-auth]
 
